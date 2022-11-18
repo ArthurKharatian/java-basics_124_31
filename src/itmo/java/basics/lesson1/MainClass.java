@@ -21,6 +21,7 @@ public class MainClass {
         byte i1 = (byte) (b + i);
         int i2 = b + i;
 
+
 //        System.out.println(i1);
 //        System.out.println(i2);
 
