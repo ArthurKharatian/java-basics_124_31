@@ -157,6 +157,10 @@ public class MainClass {
 
     }
 
+    public static void test() {
+        System.out.println("test");
+    }
+
     // Hello from Github
 
 }
