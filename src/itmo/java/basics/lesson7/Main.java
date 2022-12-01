@@ -26,7 +26,6 @@ public class Main {
 
         someClass.print();
 
-
     }
 
     void nonStatic() {
